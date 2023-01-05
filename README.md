@@ -1,4 +1,14 @@
 # todolist
+
+<img width="1699" alt="Screenshot 2023-01-05 at 4 56 34 PM" src="https://user-images.githubusercontent.com/76845650/210743305-03836139-5e69-4e0f-93ce-fce0797d0e50.png">
+
+![Screen-Recording-2023-01-05-at-12 48 59-AM](https://user-images.githubusercontent.com/76845650/210747651-6944e14c-646a-4d61-ac06-6557ff6abd34.gif)
+
+### 기능
+
+- 리스트 작성
+- 작성된 리스트 체크 및 삭제 기능
+
 1.	html 
 일단 html 파일부터 간단하게 설명드리자면 head부분에있는 script는 외부의 귀여운 휴지통 이모티콘을 가지고 오는데 쓰였고 기본 뼈대를 구성하였습니다
 2.	css
