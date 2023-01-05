@@ -2,6 +2,8 @@
 
 <img width="1699" alt="Screenshot 2023-01-05 at 4 56 34 PM" src="https://user-images.githubusercontent.com/76845650/210743305-03836139-5e69-4e0f-93ce-fce0797d0e50.png">
 
+구현 영상
+
 ![Screen-Recording-2023-01-05-at-12 48 59-AM](https://user-images.githubusercontent.com/76845650/210747651-6944e14c-646a-4d61-ac06-6557ff6abd34.gif)
 
 ### 기능
